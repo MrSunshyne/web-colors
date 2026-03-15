@@ -1,0 +1,20 @@
+{
+  "name": "web-colors",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A comprehensive guide to web color formats, theming systems, and CSS color spaces",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:37991/git/MrSunshyne/web-colors"
+  },
+  "dependencies": {
+    "nuxt": "^4.4.2"
+  }
+}
